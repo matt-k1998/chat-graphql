@@ -21,6 +21,7 @@ function Chat({ user }) {
         <MessageInput onSend={handleSend} />
       </div>
     </section>
+
   );
 }
 
